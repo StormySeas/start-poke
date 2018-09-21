@@ -1,12 +1,13 @@
 html, body {
   font-family: 'Open Sans', sans-serif;
 }
-.squares div {
+.square div {
   width:  5vh;
   height: 5vh;
   margin-right: 1%;
   display: inline-block;
   background-color: blue;
+  opacity: inherit;
 }
 
 header {
